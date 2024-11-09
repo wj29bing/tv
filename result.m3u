@@ -66,7 +66,7 @@ http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=1925
 #EXTINF:-1 tvg-name="佛教"  group-title="生命",生命
 http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 #EXTINF:-1 tvg-name="佛教"  group-title="生命",生命2
-https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 #EXTINF:-1 tvg-name="佛教"  group-title="大爱",大爱
 http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=MA0A6700404967004049&ct=19234&tsum=dbfb051e0bfc38759da1cee228ea083a
 #EXTINF:-1 tvg-name="佛教"  group-title="人间卫视",人间卫视
