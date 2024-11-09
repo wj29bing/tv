@@ -17,6 +17,8 @@ http://61.221.215.25:8800/hls/48/index.m3u8
 http://37.27.111.214:8080/live/5/hls.m3u8
 #EXTINF:-1 tvg-name="综合"  group-title="综合",人间卫视
 https://list.iptvcat.com/my_list/s/16418ddffef6255483ec9a456bf7da25.m3u8
+#EXTINF:-1 tvg-name="轮播"  group-title="轮播",电影放映厅
+http://maomao.kandiantv.cn/douyu1.php?id=252802
 #EXTINF:-1 tvg-name="法国时尚"  group-title="法国时尚",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 tvg-name="新闻"  group-title="新闻",无线新闻台
