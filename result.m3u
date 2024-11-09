@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="动物星球"  group-title="动物星球"，动物星球1
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 #EXTINF:-1 tvg-name="星空卫视"  group-title="星空卫视"，星空卫视
-http://220.166.249.81:4022/udp/239.93.0.156:2193
+http://171.213.137.140:5555/udp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="综合"  group-title="综合",民事
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:-1 tvg-name="综合"  group-title="综合",民事第一台
