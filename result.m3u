@@ -25,9 +25,9 @@ https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="台湾" group-title="综合",东森综合
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 tvg-country="TW" tvg-logo="" group-title="Undefined",Beautiful Life TV
+#EXTINF:-1 tvg-country="台湾" tvg-logo="" group-title="Undefined",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IN" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="Undefined",Balle Balle (720p)
+#EXTINF:-1 tvg-country="印度" tvg-logo="https://i.imgur.com/oxkkWH5.png" group-title="Undefined",Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="台湾" group-title="综合",八大综合
 http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
