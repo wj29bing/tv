@@ -25,6 +25,8 @@ https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="台湾" group-title="综合",东森综合
 http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 tvg-name="台湾" group-title="综合",美丽生活电视台
+https://list.iptvcat.com/my_list/s/16418ddffef6255483ec9a456bf7da25.m3u8
 #EXTINF:-1 tvg-name="台湾" group-title="综合",八大综合
 http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 #EXTINF:-1 tvg-name="台湾" group-title="综合",中天综合
